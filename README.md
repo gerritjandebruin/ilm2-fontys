@@ -25,3 +25,13 @@ Run the code in main.ipynb, this will fetch all the data available in the https:
 Then parse this data into a csv file per location.
 
 The total amount of missing values will be calculated and printed at the end of the file.
+
+## Create PDF
+
+```commandline
+pip install nbconvert
+```
+
+```commandline
+jupyter nbconvert --to pdf main.ipynb
+```
