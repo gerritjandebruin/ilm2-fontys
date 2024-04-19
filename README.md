@@ -15,7 +15,7 @@ venv/Scripts/activate
 ### Install packages
 
 ```commandline
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 ## Run
