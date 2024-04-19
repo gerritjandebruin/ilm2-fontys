@@ -1,0 +1,1 @@
+[ ] Use TQDM to get some sense of progress for downloading files
